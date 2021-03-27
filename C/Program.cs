@@ -10,7 +10,7 @@ namespace C
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Guis");
+            Console.WriteLine("гитхаб - жопа");
         }
     }
 }
